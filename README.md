@@ -45,8 +45,8 @@ This project is based on the popular website IMDb which offers movies and TV sho
 
 ### Prerequisites
 
-*Java 8
-*Any editor you can choose
+* Java 8
+* Any editor you can choose
 
 ### Installation
 
@@ -60,9 +60,9 @@ And that's all. You can run the project.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After run the project you can import and use postman collection: https://www.getpostman.com/collections/4426ab618637b840115e
-You can check added datas: http://localhost:8080/h2-console
-You can change datas for testing from : /src/main/resources/*.tsv files
+* After run the project you can import and use postman collection: https://www.getpostman.com/collections/4426ab618637b840115e
+* You can check added datas: http://localhost:8080/h2-console
+* You can change datas for testing from : /src/main/resources/*.tsv files
 
 
 
