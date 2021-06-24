@@ -1,0 +1,7 @@
+nm0000001	Fred Astaire	1899	1987	soundtrack,actor,miscellaneous	tt0000001
+nm0000002	Lauren Bacall	1924	2014	actress,soundtrack	tt0000001,tt0000002
+nm0000003	Brigitte Bardot	1934	\N	actress,soundtrack,music_department	tt0000002
+nm0000004	John Belushi	1949	1982	actor,soundtrack,writer	tt0000002
+nm0000005	Ingmar Bergman	1918	2007	writer,director,actor	tt0000003
+nm0000006	Ingrid Bergman	1915	1982	actress,soundtrack,producer	tt0000003
+nm0000102	Kevin Bacon  	1915	1982	actor,soundtrack,producer	tt0000001
